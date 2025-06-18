@@ -8,6 +8,7 @@ Upload a photo of your meal, and the AI will analyze it, identify food items, es
 ## 📸 Demo
 
 ![demo](demo_screenshot.png)
+![sabudana](sabudana.png)
 
 ---
 
